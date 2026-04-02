@@ -17,7 +17,7 @@ class Developer:
     
     def get_skills(self):
         return {
-            "languages": ["Python", "JavaScript", "Bash"],
+            "languages": ["Python", "Bash"],
             "automation": ["Telegram Bots", "User Scripts", "API Integration"],
             "infrastructure": ["Docker", "Linux", "Git"],
             "emerging": ["Prompt Engineering", "AI Integration"]
