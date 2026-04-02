@@ -1,19 +1,28 @@
-### hey, i'm arslon
+```bash
+$ whoami
+```
+### arslon
 
-i build telegram bots, automation scripts, and APIs. mostly python.
+i build telegram bots, automation scripts, and APIs.
+
+```yaml
+stack:
+  primary: python
+  tools: [telegram-bot-api, docker, linux, git]
+  exploring: [devops, system-design, saas]
+```
 
 ---
 
-**what i work with**
-
-python · telegram bot api · docker · linux · git
-
-**lately interested in**
-
-devops, system design, building saas
+```bash
+$ ls ./public-repos
+# nothing here yet — most work lives in private repos
+# client projects and tools that aren't ready for public
+```
 
 ---
 
-most of my work lives in private repos — client projects and personal tools that aren't ready for the public yet.
-
+```bash
+$ cat ./links.txt
+```
 [arslon.dev](https://arslon.dev) · [telegram](https://t.me/arslon)
