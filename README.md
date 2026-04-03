@@ -1,8 +1,3 @@
-```bash
-$ whoami
-```
-### arslon
-
 i build telegram bots, automation scripts, and APIs.
 
 ```yaml
